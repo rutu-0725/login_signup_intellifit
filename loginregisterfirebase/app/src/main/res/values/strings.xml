@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">login-register-firebase</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_main">activity_main</string>
+    <string name="welcome_message">Welcome to IntelliFit Trainer</string>
+    <string name="view_profile">View Profile</string>
+    <string name="logout">Logout</string>
+</resources>
+

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214203670052",
+    "project_id": "login-register-firebase-a9772",
+    "storage_bucket": "login-register-firebase-a9772.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214203670052:android:479161c1b3d91852a582b1",
+        "android_client_info": {
+          "package_name": "com.example.login_register_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVS4agp90rfGHVHRdC6qh18-R6VnPU5KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
